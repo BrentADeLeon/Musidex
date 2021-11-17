@@ -13,7 +13,7 @@ def lofichoice():
     'https://www.youtube.com/watch?v=5yx6BWlEVcY',
     'https://www.youtube.com/watch?v=NVLROzKcgsA']
 
-    #lofi link selection dictionary
+    #Lofi link selection dictionary
     lofi = {
     'lofi1' : lofilist[0],
     'lofi2' : lofilist[1],
@@ -34,12 +34,12 @@ def lofichoice():
 
 def jazzchoice():
 
-    #Make list of lofi links
+    #Make list of jazz links
     jazzlist = ['https://www.youtube.com/watch?v=3jWRrafhO7M', 
     'https://www.youtube.com/watch?v=bMt81mNhuZA',
     'https://www.youtube.com/watch?v=QN1uygzp56s']
 
-    #lofi link selection dictionary
+    #Jazz link selection dictionary
     jazz = {
     'jazz1' : jazzlist[0],
     'jazz2' : jazzlist[1],
@@ -65,7 +65,7 @@ def studychoice():
     'https://www.youtube.com/watch?v=Wt_SR4zmmBg',
     'https://www.youtube.com/watch?v=qPbOdQ4UAlU']
 
-    #study link selection dictionary
+    #Study link selection dictionary
     study = {
     'study1' : studylist[0],
     'study2' : studylist[1],
